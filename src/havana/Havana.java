@@ -20,7 +20,7 @@ public class Havana {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        QApplication.initialize(args);
+        QApplication.initialize(args);ASD
         QMainWindow mw = new QMainWindow();
         Ui_MainWindow mainWindow = new Ui_MainWindow();
         mainWindow.setupUi(mw);
